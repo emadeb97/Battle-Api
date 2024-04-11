@@ -1,0 +1,150 @@
+{
+    "TopItems":[
+        {"id":1,"name":"download battle.net","dropdown":[]},
+        {"id":2,"name":"support","dropdown":[]},
+        {"id":3,"name":"account","dropdown":[
+            {"id":1,"item":"login"},
+            {"id":2,"item":"account settings"},
+            {"id":3,"item":"wish list"},
+            {"id":4,"item":"redeem code"},
+            {"id":5,"item":"change battleTag"},
+            {"id":64,"item":"create account"}
+        ]}
+    ],
+    "menu":[
+        {"id":1,"name":"warcraft","dropdown":[
+            {"id":1,"item":"world of warcraft","caption":"Massively Multiplayer RPG","img":"./images/s1.png"},
+            {"id":2,"item":"world of warcraft classic","caption":"Massively Multiplayer RPG","img":"./images/s2.png"},
+            {"id":3,"item":"warcraft rumble","caption":"Action Strategy","img":"./images/s3.png"},
+            {"id":4,"item":"Warcraft III","caption":"Real-time Strategy","img":"./images/s4.png"},
+            {"id":5,"item":"hearthStone","caption":"Strategy Card Game","img":"./images/s5.png"},
+            {"id":6,"item":"warcraft: orcs & humans","caption":"Real-time Strategy","img":"./images/s6.png"},
+            {"id":7,"item":"Warcraft® II: Battle.net® Edition","caption":"Real-time Strategy","img":"./images/s7.png"}
+        ]},
+        {"id":2,"name":"call of duty","dropdown":[
+            {"id":1,"item":" Modern Warfare III","caption":"Action Shooter","img":"./images/c1.png"},
+            {"id":2,"item":"warZone","caption":"Free-To-Play Action Shooter","img":"./images/c2.png"},
+            {"id":3,"item":"Modern Warfare II","caption":"Action Shooter","img":"./images/c3.png"},
+            {"id":4,"item":"vanguard","caption":"Action Shooter","img":"./images/c4.png"},
+            {"id":5,"item":"Black Ops Cold War","caption":"Action Shooter","img":"./images/c5.png"},
+            {"id":6,"item":"modern warfare","caption":"Action Shooter","img":"./images/c6.png"},
+            {"id":7,"item":"Modern Warfare 2 Campaign Remastered","caption":"Action Shooter","img":"./images/c7.png"},
+            {"id":8,"item":"black ops 4","caption":"Action Shooter","img":"./images/c8.png"}
+        ]},
+        {"id":3,"name":"diablo","dropdown":[
+            {"id":1,"item":"Diablo IV","caption":"Action RPG","img":"./images/d1.png"},
+            {"id":2,"item":"Diablo Immortal","caption":"Action RPG","img":"./images/d2.png"},
+            {"id":3,"item":"Diablo III","caption":"Action RPG","img":"./images/d3.png"},
+            {"id":4,"item":"Diablo II: Resurrected","caption":"Action RPG","img":"./images/d4.png"},
+            {"id":5,"item":"Diablo","caption":"Action RPG","img":"./images/d5.png"}
+        ]},
+        {"id":4,"name":"overwatch","dropdown":[
+            {"id":1,"item":"Overwatch 2","caption":"Team-Based Action Game","img":"./images/o1.png"}
+        ]},
+        {"id":5,"name":"starcraft","dropdown":[
+            {"id":1,"item":"StarCraft II","caption":"Real-time Strategy","img":"./images/st1.png"},
+            {"id":2,"item":"StarCraft","caption":"Real-time Strategy","img":"./images/st2.png"}
+        ]},
+        {"id":6,"name":"more","dropdown":[
+            {"id":1,"item":"Blizzard Arcade Collection","caption":"Bundles","img":"./images/m1.png"},
+            {"id":2,"item":"Crash Bandicoot 4","caption":"Platformer","img":"./images/m2.png"},
+            {"id":3,"item":"Heroes of the Storm","caption":"MOBA","img":"./images/m3.png"}
+        ]},
+        {"id":7,"name":"spring sale","dropdown":[]}
+    ],
+    "balance":[{"id":1,"name":"battle.net balance","dropdown":[
+        {"id":1,"item":"add balance"},
+        {"id":2,"item":"gift balance"},
+        {"id":3,"item":"balance history"},
+        {"id":4,"item":"balance help"}
+    ]}
+    ],
+   "slides":[
+        {"id":1,"description":" Season 3 is here! Save up to 35% ","btnCaption":"buy now","logo":"./images/slide-1-logo.webp","bgImg":"url('./images/slide-1.jpg')"},
+        {"id":2,"description":" Save up to 50% with the Battle.net Spring Sale ","btnCaption":"buy now","logo":"./images/slide-2-logo.avif","bgImg":"url('./images/slide-2.jpg')"},
+        {"id":3,"description":" Up to 67% off through April 8 ","btnCaption":"buy now","logo":"./images/slide-3-logo.avif","bgImg":"url('./images/slide-3.jpg')"},
+        {"id":4,"description":" The Toychest is Teeming! Hearthstone's new expansion is now live. ","logo":"./images/slide-4-logo.avif","btnCaption":"buy now","bgImg":"url('./images/slide-4.jpg')"},
+        {"id":5,"description":"Pirates, magic & mayhem! Join the limited-time event","btnCaption":"subscribe now","logo":"./images/slide-5-logo.avif","bgImg":"url('./images/slide-5.jpg')"},
+        {"id":6,"description":" Save up to 65% off The Spring Supreme Pet Pack ","btnCaption":" Snuggle Up ","logo":"./images/slide-6-logo.avif","bgImg":"url('./images/slide-6.jpg')"},
+        {"id":7,"description":" Spring into savings! ","btnCaption":"shop now","logo":"./images/slide-7-logo.avif","bgImg":"url('./images/slide-7.jpg')"}
+   ],
+   "recommended":[
+    {"id":1,"img":"./images/r1.avif","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":2,"img":"./images/r2.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":3,"img":"./images/r3.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":4,"img":"./images/r4.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":5,"img":"./images/r5.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":6,"img":"./images/r6.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":7,"img":"./images/r7.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":8,"img":"./images/r8.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":9,"img":"./images/r9.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":10,"img":"./images/r10.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"}
+   ],
+   "featured":[
+    {"id":1,"img":"./images/r1.avif","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":2,"img":"./images/r2.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":3,"img":"./images/r3.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":4,"img":"./images/r4.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":5,"img":"./images/r5.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":6,"img":"./images/r6.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":7,"img":"./images/r7.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":8,"img":"./images/r8.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":9,"img":"./images/r9.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":10,"img":"./images/r10.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"}
+   ],
+   "trendingNow":[
+    {"id":1,"img":"./images/r1.avif","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":2,"img":"./images/r2.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":3,"img":"./images/r3.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":4,"img":"./images/r4.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":5,"img":"./images/r5.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":6,"img":"./images/r6.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":7,"img":"./images/r7.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":8,"img":"./images/r8.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":9,"img":"./images/r9.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":10,"img":"./images/r10.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"}
+   ],
+   "mostGifted":[
+    {"id":1,"img":"./images/r1.avif","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":2,"img":"./images/r2.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":3,"img":"./images/r3.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":4,"img":"./images/r4.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":5,"img":"./images/r5.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":6,"img":"./images/r6.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":7,"img":"./images/r7.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":8,"img":"./images/r8.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":9,"img":"./images/r9.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"},
+    {"id":10,"img":"./images/r10.jpg","header":"World of Warcraft","svg":"./images/s1.png","title":"World of Warcraft®: The War Within™","description":"Includes the critically-acclaimed Dragonflight expansion.","caption":"Massively Multiplayer RPG","offer":"900$","discount":"25%","price":"From $49.99"}
+   ],
+   "dive":[
+    {"id":1,"bgImage":"url('./images/dive.png')","svg":"./images/dive1.png","title":"Dive into adventure","description":"Download Battle.net and join a community of millions.","btn1":"Download for Windows ","btn2":"Learn More","paragraph":"Also available for mac and mobile"}
+   ],
+   "footTop":[
+    {"id":1,"name":"careers"},
+    {"id":2,"name":"about"},
+    {"id":3,"name":"support"},
+    {"id":4,"name":"contact us"},
+    {"id":5,"name":"press"},
+    {"id":6,"name":"API"}
+   ],
+   "checkBox":[
+    {"id":1,"name":"select a language","options":[
+        {"number":1,"choice":"English(us)"},
+        {"number":2,"choice":"Español (Latino)"},
+        {"number":3,"choice":"Português (Brasil)"},
+        {"number":4,"choice":"Deutsch"},
+        {"number":5,"choice":"Polski"},
+        {"number":6,"choice":"Français"},
+        {"number":7,"choice":"Italiano"},
+        {"number":8,"choice":"繁體中文"},
+        {"number":9,"choice":"한국어"}
+    ]}
+   ],
+   "footBot":[
+    {"id":1,"name":"privacy"},
+    {"id":2,"name":"legal"},
+    {"id":3,"name":"terms"},
+    {"id":4,"name":"cookie policy"},
+    {"id":5,"name":"cookie settings"}
+   ]
+}
